@@ -1,5 +1,5 @@
 Curso:
-	K3052
+	K3052 - Primer cuatrimestre 2015
 
 Numero de grupo:
 	51 - HOTEL_CUATRIVAGOS
@@ -12,4 +12,4 @@ Nombre y legajo de todos los integrantes:
 	
 
 Email del integrante responsable del grupo:
-	Emilio Jose Nogueiras - emilio.nogueiras@gmail.com
+	Daniel Avila - daniel.avila@rottay.com
